@@ -1175,7 +1175,6 @@ PRODUCT_PACKAGES += \
     gyro_fusion_interface \
     libEseUtils \
     libqtigatekeeper \
-    sound_trigger.primary.pineapple \
     vendor.qti.hardware.alarm-impl \
     vendor.qti.hardware.bluetooth_audio@2.0-impl \
     vendor.qti.hardware.bluetooth_audio@2.1-impl \
@@ -2451,7 +2450,6 @@ PRODUCT_PACKAGES += \
     dpm-saidl.xml \
     imsdcservice-saidl.xml \
     manifest_non_qmaa.xml \
-    manifest_non_qmaa_extn.xml \
     mwqem-saidl.xml \
     qcrilhook-saidl.xml \
     qesdk-manager.xml \
