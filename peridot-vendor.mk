@@ -1219,6 +1219,9 @@ PRODUCT_PACKAGES += \
     libTxPwrJni \
     libVoiceSdk \
     libWlanServiceJni \
+    lib_bt_aptx \
+    lib_bt_ble \
+    lib_bt_bundle \
     lib_bt_lhdc \
     lib_misound_asc \
     libadm \
